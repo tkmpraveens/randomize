@@ -1,0 +1,24 @@
+.landing-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &--listing-inactive {
+    .header {
+      height: 100vh;
+      row-gap: 3rem;
+
+      &__title {
+        margin-top: 18vh;
+        margin-bottom: 2rem;
+      }
+    }
+
+    .listing {
+      min-height: 0;
+      height: 0;
+      opacity: 0;
+      visibility: hidden;
+    }
+  }
+}
