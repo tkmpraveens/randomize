@@ -12,8 +12,8 @@ This project is a web application that aims to simplify the process of creating 
 
 ### Screenshots
 
-<img src="screenshots/landing-page.jpg" alt= "Landing page" width="45%">
-<img src="screenshots/after-randomized.jpg" alt= "After randomized" width="45%">
+<img src="screenshots/landing-page.jpg" alt= "Landing page" width="80%">
+<img src="screenshots/after-randomized.jpg" alt= "After randomized" width="80%">
 
 ### Frontend Tech Stack
 
