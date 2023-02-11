@@ -2,6 +2,9 @@
 
 This project is a web application that aims to simplify the process of creating teams by randomly dividing a given number of participants into balanced groups. The goal is to provide an efficient and impartial method of team formation, eliminating the need for manual and subjective methods.
 
+### Live 
+[randomize.genproresearch.com](https://randomize.genproresearch.com/)
+
 ### Features
 
 - Randomly divide a specified number of participants into balanced teams.
