@@ -10,6 +10,11 @@ This project is a web application that aims to simplify the process of creating 
 - Provision for customizable team size and participant count.
 - A lightweight front-end app with fast performance.
 
+### Screenshots
+
+<img src="screenshots/landing-page.jpg" alt= "Landing page" width="45%">
+<img src="screenshots/after-randomized.jpg" alt= "After randomized" width="45%">
+
 ### Frontend Tech Stack
 
 - ReactJs, SCSS
