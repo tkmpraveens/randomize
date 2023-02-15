@@ -1,8 +1,9 @@
 ## Randomize - Effortlessly Divide Participants into Balanced Teams
 
-This project is a web application that aims to simplify the process of creating teams by randomly dividing a given number of participants into balanced groups. The goal is to provide an efficient and impartial method of team formation, eliminating the need for manual and subjective methods.
+Randomize is a web application that aims to simplify the process of creating teams by randomly dividing a given number of participants into balanced groups. The goal is to provide an efficient and impartial method of team formation, eliminating the need for manual and subjective methods.
 
-### Live 
+### Live
+
 [randomize.genproresearch.com](https://randomize.genproresearch.com/)
 
 ### Features
@@ -25,14 +26,14 @@ This project is a web application that aims to simplify the process of creating 
 ### Getting Started
 
 1. Clone the repository to your local machine: git clone the [repository](https://github.com/tkmpraveens/randomize.git)
-2. Navigate to the project directory: cd randomize
+2. Navigate to the project directory: `cd randomize`
 3. Install the required dependencies: `npm i` or `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and navigate to http://localhost:3000
 
 ### Contribution Guidelines
 
-We welcome contributions to this project. To get started, please fork the repository, make your changes, and submit a pull request.
+We welcome contributions to this project. If you find a bug or have an idea for a new feature, please fork the repository, make your changes, and submit a pull request.
 
 ### License
 
